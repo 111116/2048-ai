@@ -4,7 +4,7 @@ nneonneo's 2048 AI, with multithreading. Currently only tested on Ubuntu16.04, 6
 
 It uses `fork()` and `pipe()`. It may not be able to run on windows. 
 
-I'm a newbie so any feedbacks are welcomed.
+I'm a newbie so there can be many bugs. Any feedbacks are welcomed.
 
 ================ original README below ================
 
